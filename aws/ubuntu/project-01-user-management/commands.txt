@@ -1,0 +1,5 @@
+    1  sudo apt update && sudo apt install apache2 -y
+    2  sudo adduser student
+    3  sudo usermod -aG sudo student
+    4  history > comands.txt
+    5  history > commands.txt
