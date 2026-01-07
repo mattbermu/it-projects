@@ -39,9 +39,11 @@ Built foundational Linux system administration skills by installing and managing
 - Windows 11
 - Linux (Ubuntu)
 - AWS EC2
+- VirtualBox
 - PowerShell (basic)
+- Linux command-line tools (user/group management, permissions, package management)
 - SSH / SCP
-- GitHub documentation
+- GitHub (documentation and version control)
 
 ---
 
