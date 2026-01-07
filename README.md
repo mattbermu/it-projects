@@ -26,7 +26,7 @@ Practiced IT support tasks by managing user accounts on an Ubuntu virtual machin
 
 ---
 
-### 🔹 Project 02: Help Desk Ticket Resolution Lab (Windows 11)
+### 🔹 Project 02: Help Desk Ticket Resolution Lab (Windows 10)
 **Skills:** Help Desk, Windows administration, networking fundamentals, permissions, troubleshooting  
 📂 Location: `project-02-help-desk-lab`
 
@@ -43,7 +43,7 @@ Built foundational Linux system administration skills by installing and managing
 ---
 
 ## 🧰 Tools & Technologies
-- Windows 11
+- Windows 10 & 11
 - Linux (Ubuntu)
 - AWS EC2
 - VirtualBox
