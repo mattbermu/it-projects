@@ -22,6 +22,14 @@ Simulated real-world help desk scenarios by resolving user login issues, network
 
 ---
 
+### 🔹 Project 03: Linux Virtual Machine Administration Basics
+**Skills:** Linux, VirtualBox, user management, permissions, troubleshooting  
+📂 Location: `project-03-linux-vm-basics`
+
+Built foundational Linux system administration skills by installing and managing an Ubuntu virtual machine locally. Practiced file permissions, user and group management, package installation, and system monitoring while documenting workflows.
+
+---
+
 ## 🧰 Tools & Technologies
 - Windows 11
 - Linux (Ubuntu)
