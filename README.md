@@ -1,30 +1,36 @@
-# it-projects
-Hands-on IT, Linux, AWS, and Help Desk projects
+# IT Projects Portfolio
 
+Hands-on IT, Linux, AWS, and Help Desk projects demonstrating real-world technical skills, troubleshooting, and documentation.
 
-# Project 01: User Management on AWS Ubuntu VM
+---
 
-## Objective
-Practice IT support tasks by managing user accounts on an Ubuntu virtual machine hosted in AWS.  
-Includes creating accounts, setting permissions, troubleshooting, and documenting all steps.
+## 📌 Projects
 
-## Tools & Technologies
-- AWS EC2 Ubuntu VM
+### 🔹 Project 01: User Management on AWS Ubuntu VM
+**Skills:** Linux, AWS EC2, SSH/SCP, user management, permissions, documentation  
+📂 Location: `aws/ubuntu/project-01-user-management`
+
+Practiced IT support tasks by managing user accounts on an Ubuntu virtual machine hosted in AWS. Includes account creation, permission management, troubleshooting, and detailed documentation of commands and workflows.
+
+---
+
+### 🔹 Project 02: Help Desk Ticket Resolution Lab (Windows 11)
+**Skills:** Help Desk, Windows administration, networking fundamentals, permissions, troubleshooting  
+📂 Location: `project-02-help-desk-lab`
+
+Simulated real-world help desk scenarios by resolving user login issues, network connectivity problems, shared drive access, and account management tasks. Documented troubleshooting steps and ticket resolutions.
+
+---
+
+## 🧰 Tools & Technologies
+- Windows 11
+- Linux (Ubuntu)
+- AWS EC2
+- PowerShell (basic)
 - SSH / SCP
-- Windows PowerShell
-- Linux commands (adduser, passwd, ls, mkdir, etc.)
-- Documentation (commands.txt, notes.md)
+- GitHub documentation
 
-## Steps Completed
-1. Created Admin and Test user accounts
-2. Configured permissions and verified login
-3. Documented all commands and troubleshooting steps in commands.txt and notes.md
-4. Transferred files from VM to local machine using SCP
-5. Uploaded project files to GitHub
+---
 
-## Learning Outcomes
-- Hands-on experience with Linux user management
-- Practiced secure file transfer (SCP)
-- Improved documentation and workflow skills
-- Understanding cloud-based VM management
-
+## 🎯 Purpose
+This repository showcases hands-on projects built to gain practical experience for entry-level IT, help desk, and data center roles.
