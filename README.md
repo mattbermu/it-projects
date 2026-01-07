@@ -2,6 +2,11 @@
 
 Hands-on IT, Linux, AWS, and Help Desk projects demonstrating real-world technical skills, troubleshooting, and documentation.
 
+## 🌐 Personal Website
+
+Personal portfolio website outlining my background, academic journey in cybersecurity, and career goals.  
+🔗 https://mbermudez15.wixsite.com/matthew-bermudez
+
 ---
 
 ## 📌 Projects
