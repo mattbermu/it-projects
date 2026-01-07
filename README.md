@@ -11,6 +11,11 @@ Personal portfolio website outlining my background, academic journey in cybersec
 
 ---
 
+## 💻 Python
+Python practice + small scripts: https://github.com/mattbermu/Python
+
+---
+
 ## 📌 Projects
 
 ### 🔹 Project 01: User Management on AWS Ubuntu VM
