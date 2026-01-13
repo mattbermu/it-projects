@@ -50,6 +50,14 @@ Created a PowerShell toolkit that performs basic PC health checks and generates 
 
 ---
 
+### 🔹 Project 05: Windows Security Event Monitor (PowerShell)
+**Skills:** Windows Event Viewer, security monitoring, PowerShell scripting, reporting, documentation  
+📂 Location: `project-05-windows-event-monitor`
+
+Built a PowerShell tool that reads Windows Security Event Logs and generates a timestamped report. Parses failed logons (4625) to extract username, logon type, source IP, and failure reason, then exports failed logon activity to CSV and summarizes top usernames and source IPs.
+
+---
+
 ## 🧰 Tools & Technologies
 - Windows 10 & 11
 - Linux (Ubuntu)
