@@ -42,13 +42,22 @@ Built foundational Linux system administration skills by installing and managing
 
 ---
 
+### 🔹 Project 04: Windows Health Check Toolkit (PowerShell)
+**Skills:** Windows troubleshooting, PowerShell basics, system diagnostics, documentation  
+📂 Location: `project-04-windows-healthcheck-toolkit`
+
+Created a PowerShell toolkit that performs basic PC health checks and generates a timestamped report. Checks include system info, disk space warning, internet connectivity, and Windows Defender status. Designed as a beginner-friendly help desk tool and documented setup, usage, and results.
+
+---
+
 ## 🧰 Tools & Technologies
 - Windows 10 & 11
 - Linux (Ubuntu)
 - AWS EC2
 - VirtualBox
-- PowerShell (basic)
+- PowerShell (basic scripting + automation)
 - Linux command-line tools (user/group management, permissions, package management)
+- Windows troubleshooting tools (basic diagnostics)
 - SSH / SCP
 - GitHub (documentation and version control)
 
