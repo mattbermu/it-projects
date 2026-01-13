@@ -1,0 +1,44 @@
+﻿============================================
+ Windows Security Event Monitor Report
+ Generated: 01/12/2026 19:57:32
+ Time Range: Last 24 hours
+============================================
+
+Start Time: 01/11/2026 19:57:32
+End Time:   01/12/2026 19:57:32
+
+---- Successful Logons (Event ID: 4624) ----
+Count: 87
+
+Most Recent Events (up to 5):
+Time: 01/12/2026 19:57:13 | Message: An account was successfully logged on.
+Time: 01/12/2026 19:57:13 | Message: An account was successfully logged on.
+Time: 01/12/2026 19:57:13 | Message: An account was successfully logged on.
+Time: 01/12/2026 19:57:02 | Message: An account was successfully logged on.
+Time: 01/12/2026 19:56:59 | Message: An account was successfully logged on.
+
+---- Failed Logons (Event ID: 4625) ----
+Count: 1
+
+Most Recent Events (up to 5):
+Time: 01/12/2026 19:57:08 | Message: An account failed to log on.
+
+---- Account Lockouts (Event ID: 4740) ----
+Count: 0
+
+No events found for this time range.
+
+---- New User Created (Event ID: 4720) ----
+Count: 0
+
+No events found for this time range.
+
+---- User Added to a Security Group (Event ID: 4732) ----
+Count: 0
+
+No events found for this time range.
+
+============================================
+ Report saved to: C:\Users\Matthew\Desktop\project-05-windows-event-monitor\scripts\..\logs\Security_Event_Report_2026-01-12_19-57-32.txt
+ Done.
+============================================
