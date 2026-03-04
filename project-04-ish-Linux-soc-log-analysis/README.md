@@ -1,4 +1,4 @@
-# Project 04: iSH Linux SOC Log Analysis Lab (iPad)
+# Project 06: iSH Linux SOC Log Analysis Lab (iPad)
 
 Skills: Linux command line, log analysis, troubleshooting, basic incident response, documentation  
 Tools: iSH (Alpine Linux), grep, awk, sort, uniq, wc, ps, kill, ping, nslookup
