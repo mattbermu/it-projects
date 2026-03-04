@@ -58,6 +58,13 @@ Built a PowerShell tool that reads Windows Security Event Logs and generates a t
 
 ---
 
+### 🔹  Project 06: iSH Linux SOC Log Analysis Lab
+
+Skills: Linux command line, log analysis, troubleshooting, basic incident response, documentation  
+Location: `project-04-ish-linux-soc-log-analysis`
+
+Completed a SOC-style investigation lab using iSH on iPad (Alpine Linux). Practiced log analysis with `grep`, `awk`, `sort`, `uniq -c`, and `wc` to identify brute-force login attempts, targeted accounts, and the most active source IP. Included troubleshooting notes and documented workflows.
+
 ## 🧰 Tools & Technologies
 - Windows 10 & 11
 - Linux (Ubuntu)
